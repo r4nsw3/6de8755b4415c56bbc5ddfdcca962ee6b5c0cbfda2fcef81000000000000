@@ -1,0 +1,13 @@
+data/00/00/00/00/00.bin	ceaa01ea
+data/00/00/00/00/01.bin	d347be2c
+data/00/00/00/00/02.bin	67aaf983
+data/00/00/00/00/03.bin	6d99f94b
+data/00/00/00/00/04.bin	80df0b17
+data/00/00/00/00/05.bin	ef6eb8e5
+data/00/00/00/00/06.bin	0cec742c
+data/00/00/00/00/07.bin	50c8dbc0
+data/00/00/00/00/08.bin	5bd86d49
+data/00/00/00/00/09.bin	6913be1e
+data/00/00/00/00/10.bin	273576ff
+data/00/00/00/00/11.bin	e526af7a
+data/00/00/00/00/12.bin	bdd15da6
